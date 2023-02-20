@@ -1,0 +1,12 @@
+Enter a sentence:
+i have a pen which pen i given to you
+Number of words in the sentence: 10
+Word frequency in the sentence:
+which: 1
+a: 1
+given: 1
+have: 1
+pen: 2
+i: 2
+to: 1
+you: 1
